@@ -28,17 +28,17 @@
 
 Challenges can be completed for skill development points.
 
-|Challenge|Level Completed|Checked|
-|---|---|---|
-|Challenge 01 - Number Guessing Game|||
-|Challenge 02 - Rock Paper Scissors|||
-|Challenge 03 - Calculator|||
-|Challenge 04 - Coin FLip Game|||
-|Challenge 05 - How Many Rolls|||
-|Challenge 06 - Hangman|||
-|Challenge 07 - Password Strength|||
-|Challenge 08 - Choose Your Own Adventure|||
-|Challenge 09 - Janky Wordle|||
-|Challenge 10 - Classic Text Based Game|||
+|Challenge| Level Completed | Checked |
+|---|-----------|------|
+|Challenge 01 - Number Guessing Game|           |      |
+|Challenge 02 - Rock Paper Scissors|           |      |
+|Challenge 03 - Calculator|           |      |
+|Challenge 04 - Coin FLip Game|           |      |
+|Challenge 05 - How Many Rolls|           |      |
+|Challenge 06 - Hangman|           |      |
+|Challenge 07 - Password Strength|           |      |
+|Challenge 08 - Choose Your Own Adventure|           |      |
+|Challenge 09 - Janky Wordle|           |      |
+|Challenge 10 - Classic Text Based Game|           |      |
 
 
