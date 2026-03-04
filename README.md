@@ -23,6 +23,7 @@
 * [ ] Read `Lesson 11 - Iteration - While Loops.md`.
 * [ ] Read `Lesson 12 - Iteration - Break and Continue.md`.
 
+
 ### Challenges
 
 Challenges can be completed for skill development points. In this 
