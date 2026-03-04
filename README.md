@@ -23,7 +23,6 @@
 * [ ] Read `Lesson 11 - Iteration - While Loops.md`.
 * [ ] Read `Lesson 12 - Iteration - Break and Continue.md`.
 
-
 ### Challenges
 
 Challenges can be completed for skill development points. In this 
@@ -40,5 +39,3 @@ Challenges can be completed for skill development points. In this
 |Challenge 08 - Choose Your Own Adventure|           |      |
 |Challenge 09 - Janky Wordle|           |      |
 |Challenge 10 - Classic Text Based Game|           |      |
-
-
