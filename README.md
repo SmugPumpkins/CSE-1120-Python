@@ -26,7 +26,7 @@
 
 ### Challenges
 
-Challenges can be completed for skill development points.
+Challenges can be completed for skill development points. In this 
 
 |Challenge| Level Completed | Checked |
 |---|-----------|------|
