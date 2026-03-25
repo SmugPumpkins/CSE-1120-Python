@@ -25,7 +25,9 @@
 
 ### Challenges
 
-Challenges can be completed for skill development points. In this unit the total number of points is 15.
+Challenges can be completed for skill development points. This unit is out of a total of 15 points.
+
+*Challenges must be completed and checked before the unit end date.*
 
 | Challenge                                | Level Completed | Checked |
 |------------------------------------------|-----------------|---------|
